@@ -10,7 +10,7 @@ and we need you to join if you love to do something best.
 before to join us. We need to you about you.
 
 - Who are you -> resume email to witchnee(at)[smileFOKUS].com
-- your portfolio by folking repos
+- your portfolio by fork repos
 - ✨May the force be with you ✨
 
 # Front end dev
